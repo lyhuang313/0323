@@ -27,4 +27,4 @@ for receiver in receiver_list:
         server.sendmail(sender,receiver,msg.as_string())
 
 
-print("success send mail")
+print("success send mail*2")
